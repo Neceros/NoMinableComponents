@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>No Minable Components</name>
+	<author>Neceros</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <packageId>neceros.nominablecomponents</packageId>
+	<description>Removes components from mountains and deep drilling. You must start a new game for this to work. Not compatible with any mod which changes the *MinableComponent def*, but not the component item. 
+
+  Now to get components you must craft or trade to get them.</description>
+</ModMetaData>
