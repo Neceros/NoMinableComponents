@@ -19,6 +19,15 @@
           </building>
         </value>
 			</li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName = "Steel"]/deepCommonality</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName = "Steel"]/deepCountPerPortion</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/ThingDef[defName = "Steel"]/deepLumpSizeRange</xpath>
+      </li>
 		</operations>
 	</Operation>
 
